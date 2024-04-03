@@ -1,2 +1,5 @@
-# projeto-livros
-Plataforma para leitores que te acompanha antes, durante e depois da leitura.
+# Projeto Plataforma para Leitores
+
+A leitura é um hábito que muito se busca cultivar hoje entre os mais diversos estratos da sociedade pelos seus incontáveis benefícios e pelo inestimável valor que agrega à vida das pessoas. Muito se escuta: "Eu gostaria de ler mais", "Eu preciso ler mais". Apesar disso, são diversos os fatores que desencorajam as pessoas a lerem mais livros: seja pelos elevados preços nas prateleiras, falta de estímulo ou de amigos para compartilhar suas leituras em comum, pouco espaço em casa, entre outros. Dessa forma, a leitura pode se tornar para alguns um hábito solitário, de elevada barreira de entrada, monótono e pouco prático. 
+
+Nossa proposta com a plataforma que estamos em processo de ideação é criar uma nova perspectiva sob o hábito da leitura, tornando-a mais acessível, social e estimulante através de um ecossistema atrativo e engajante que acompanhe o leitor em toda sua jornada: da aquisição do livro à leitura e interação com outros leitores. Dessa forma, visamos possibilitar que aqueles que desejem cultivar o hábito da leitura possam o fazer sem que sejam desmotivados pelos diversos obstáculos no caminho, trazendo um alívio para a frustração de não conseguir desempenhar uma prática que pode ser tão prazerosa e recompensadora.
